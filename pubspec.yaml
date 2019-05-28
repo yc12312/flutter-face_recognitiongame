@@ -1,0 +1,30 @@
+name: firebase_face_contour
+description: A Flutter plugin to implement Firebase Face Contour Detection of Firebase ML Vision
+version: 0.1.0
+author: Gian Marco Di Francesco <difrancescogianmarco@gmail.com>
+homepage: https://github.com/giandifra/flutter-face-contour-plugin
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flame: ^0.10.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  plugin:
+    androidPackage: com.gianmarcodifrancesco.firebase_face_contour
+    pluginClass: FirebaseFaceContourPlugin
+
