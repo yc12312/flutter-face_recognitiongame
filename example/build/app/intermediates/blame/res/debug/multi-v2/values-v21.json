@@ -4,7 +4,7 @@
             "outputFile": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0311f10cf53374b42844af2c12411f32/res/values-v21/values-v21.xml",
+                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/3cc86ba0a8bb739fc40fe9bb3af921dc/res/values-v21/values-v21.xml",
+                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",

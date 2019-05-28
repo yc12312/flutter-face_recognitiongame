@@ -3,7 +3,10 @@ package io.flutter.plugins;
 import io.flutter.plugin.common.PluginRegistry;
 import xyz.luan.audioplayers.AudioplayersPlugin;
 import io.flutter.plugins.camera.CameraPlugin;
+import io.flutter.plugins.firebaseauth.FirebaseAuthPlugin;
+import io.flutter.plugins.firebase.core.FirebaseCorePlugin;
 import com.gianmarcodifrancesco.firebase_face_contour.FirebaseFaceContourPlugin;
+import io.flutter.plugins.googlesignin.GoogleSignInPlugin;
 import io.flutter.plugins.pathprovider.PathProviderPlugin;
 
 /**
@@ -16,7 +19,10 @@ public final class GeneratedPluginRegistrant {
     }
     AudioplayersPlugin.registerWith(registry.registrarFor("xyz.luan.audioplayers.AudioplayersPlugin"));
     CameraPlugin.registerWith(registry.registrarFor("io.flutter.plugins.camera.CameraPlugin"));
+    FirebaseAuthPlugin.registerWith(registry.registrarFor("io.flutter.plugins.firebaseauth.FirebaseAuthPlugin"));
+    FirebaseCorePlugin.registerWith(registry.registrarFor("io.flutter.plugins.firebase.core.FirebaseCorePlugin"));
     FirebaseFaceContourPlugin.registerWith(registry.registrarFor("com.gianmarcodifrancesco.firebase_face_contour.FirebaseFaceContourPlugin"));
+    GoogleSignInPlugin.registerWith(registry.registrarFor("io.flutter.plugins.googlesignin.GoogleSignInPlugin"));
     PathProviderPlugin.registerWith(registry.registrarFor("io.flutter.plugins.pathprovider.PathProviderPlugin"));
   }
 

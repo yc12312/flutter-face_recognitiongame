@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3b5ee815aed48937bcd35b801bbfb8b7/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3b5ee815aed48937bcd35b801bbfb8b7/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3b5ee815aed48937bcd35b801bbfb8b7/res/color/common_google_signin_btn_tint.xml"
+    }
+]

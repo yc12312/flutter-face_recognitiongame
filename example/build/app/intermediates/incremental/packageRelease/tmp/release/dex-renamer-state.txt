@@ -1,0 +1,4 @@
+#Wed May 29 00:57:24 KST 2019
+base.0=/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

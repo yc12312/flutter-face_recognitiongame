@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/36371d31dbbc0dc5558910af25f262c4/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/36371d31dbbc0dc5558910af25f262c4/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/36371d31dbbc0dc5558910af25f262c4/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

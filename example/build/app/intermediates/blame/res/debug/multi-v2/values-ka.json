@@ -4,24 +4,7 @@
             "outputFile": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
             "map": [
                 {
-                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0311f10cf53374b42844af2c12411f32/res/values-ka/values-ka.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2814",
-                        "endColumns": "100",
-                        "endOffsets": "2910"
-                    }
-                },
-                {
-                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/0ea590f5af477a76b112b2afe8c890ee/res/values-ka/values.xml",
+                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/4ccee4400acaa785d1e6c97087efd4f9/res/values-ka/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/3b5ee815aed48937bcd35b801bbfb8b7/res/values-ka/values.xml",
+                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2814",
+                        "endColumns": "100",
+                        "endOffsets": "2910"
+                    }
+                },
+                {
+                    "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/res/values-ka/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

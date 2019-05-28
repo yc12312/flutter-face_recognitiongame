@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0311f10cf53374b42844af2c12411f32/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0311f10cf53374b42844af2c12411f32/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0311f10cf53374b42844af2c12411f32/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0311f10cf53374b42844af2c12411f32/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
