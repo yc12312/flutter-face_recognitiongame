@@ -43,3 +43,4 @@ flutter:
   assets:
     - assets/images/sprite.png
     - assets/images/logo.png
+    - assets/images/google.png

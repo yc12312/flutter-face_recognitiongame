@@ -149,7 +149,17 @@ class Login extends StatelessWidget {
         ),
         Center(
           child: RaisedButton(
-            child: Text('Google Login'),
+            child: Container(
+                width: 200,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+              children: <Widget>[
+                Container(
+                    height: 30,
+                    child: Image.asset('assets/images/google.png')),
+                Text(' Google Login'),
+              ],
+            )),
             onPressed: () {
               _HandleSignIn(context);
             },
@@ -157,7 +167,15 @@ class Login extends StatelessWidget {
         ),
         Center(
           child: RaisedButton(
-            child: Text('Anonoymous Login'),
+            child: Container(
+                width: 200,
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    Icon(Icons.person),
+                    Text(' Anonoymous Login'),
+                  ],
+                )),
             onPressed: () {
               _handleAnomSignIn(context);
             },

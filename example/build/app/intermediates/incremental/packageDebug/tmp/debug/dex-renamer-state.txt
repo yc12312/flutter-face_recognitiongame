@@ -1,4 +1,4 @@
-#Mon Jun 03 10:15:47 KST 2019
+#Mon Jun 03 10:48:49 KST 2019
 base.2=/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/app/intermediates/transforms/dexMerger/debug/12
 base.1=/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/app/intermediates/transforms/dexMerger/debug/10
 base.0=/Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/app/intermediates/transforms/dexMerger/debug/11
