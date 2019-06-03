@@ -1,4 +1,5 @@
 import 'package:camera/camera.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_face_contour_example/face_contour_painter.dart';
 import 'package:firebase_face_contour_example/utils.dart';
 import 'package:flutter/foundation.dart';
@@ -6,6 +7,11 @@ import 'package:flutter/material.dart';
 import 'package:firebase_face_contour/firebase_face_contour.dart';
 
 import 'package:firebase_face_contour_example/gloabals.dart' as gl;
+
+import 'package:flutter_share_me/flutter_share_me.dart';
+
+import 'package:flutter_sparkline/flutter_sparkline.dart';
+
 
 class FaceContourDetectionScreen extends StatefulWidget {
   @override
@@ -86,11 +92,97 @@ class _FaceContourDetectionScreenState
     _initializeCamera();
   }
 
+  void showLeaderBoard(BuildContext context) {
+
+    List<DocumentSnapshot> scoreBoard = new List();
+    DocumentSnapshot temp;
+
+    Firestore.instance.collection('users')
+        .getDocuments().then((ds){
+          scoreBoard = ds.documents;
+
+          scoreBoard.sort((a, b) => b["score"].compareTo(a["score"]));
+
+          showDialog(
+            context: context,
+            builder: (BuildContext context) {
+              return AlertDialog(
+                title: new Text("Score Board"),
+                content: new Text("[Top 3 Scores]\n"
+                    +"1. "+ scoreBoard[0]["email"].toString() +" "+ scoreBoard[0]["score"].toString()
+                    + "\n2. "+scoreBoard[1]["email"].toString() +" "+ scoreBoard[1]["score"].toString()
+                    +"\n3. "+ scoreBoard[2]["email"].toString() +" "+ scoreBoard[2]["score"].toString()),
+                actions: <Widget>[
+                  FlatButton(
+                    child: new Text("Close"),
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                    },
+                  )
+                ],
+              );
+            },
+          );
+
+    });
+
+  }
+
+  void showMyLog(BuildContext context) {
+
+    List<double> data = new List();
+
+    for(int i=0; i< gl.Logs.length; i++){
+      data.add(gl.Logs[i].toDouble());
+    }
+
+      showDialog(
+        context: context,
+        builder: (BuildContext context) {
+          return AlertDialog(
+            title: new Text("My Score History"),
+            content: Container(
+              height: 400.0,
+              child: Column(
+                children: <Widget>[
+                  Text("[Score History]\n"),
+                  Container(
+                    height: 300.0,
+                      child: Sparkline(data: data,))
+                ],
+              ),
+            ),
+            actions: <Widget>[
+              FlatButton(
+                child: new Text("Close"),
+                onPressed: () {
+                  Navigator.of(context).pop();
+                },
+              )
+            ],
+          );
+        },
+      );
+  }
+
+  void singOut() async{
+    await gl.auth.signOut().whenComplete((){
+      gl.High = 0;
+      gl.point = 0;
+      Navigator.pop(context);
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
       appBar: AppBar(
-        title: Text("current point: "+gl.point.round().toString()),
+        title: Text("Point: "+gl.point.round().toString()),
+        leading: IconButton(icon: Icon(Icons.arrow_back),
+            onPressed: (){
+              singOut();
+            }),
         actions: <Widget>[
           IconButton(
               icon:
@@ -99,7 +191,20 @@ class _FaceContourDetectionScreenState
                 setState(() {
                   cameraEnabled = !cameraEnabled;
                 });
+              }),
+          IconButton(
+              icon:
+              Icon(Icons.assessment),
+              onPressed: () {
+                showLeaderBoard(context);
+              }),
+          IconButton(
+              icon:
+              Icon(Icons.equalizer),
+              onPressed: () {
+                showMyLog(context);
               })
+
         ],
       ),
       body: _camera == null
@@ -139,6 +244,7 @@ class LiveCameraWithFaceDetection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     return Container(
       child: Stack(
         fit: StackFit.expand,

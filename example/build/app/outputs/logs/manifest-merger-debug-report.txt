@@ -5,35 +5,44 @@ INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-pl
 INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from [:firebase_auth] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_face_contour] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
 MERGED from [:audioplayers] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/audioplayers/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
 MERGED from [:camera] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/camera/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-10:12
 MERGED from [:path_provider] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
-MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:cloud_firestore] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_face_contour] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-20:12
 MERGED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/1669d61217c08629ec124884731e1cde/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:2:1-24:12
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/9c74bfab39280e8a579e806596cc8f85/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-share-4.42.0.aar/399ff9b313c483d084387dda11327d39/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:21:1-37:12
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:21:1-53:12
 MERGED from [com.google.firebase:firebase-ml-vision:19.0.3] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-19.0.3.aar/75eef694a3c75a049e71d24af79ea37d/AndroidManifest.xml:2:1-8:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8e8aef3f196bf85225c65a8adad466a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/a091bb5dda632f7525aa0a6d3837e887/AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:18:1-37:12
 MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/17b5af38bea982e1ed2f3d02c49b6c0c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/3ec429d5706ee018a51f5e2c3927d2a5/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b85dc1cd44b4f741085af7509d41e978/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-common-17.0.0.aar/b23cf2ec4164796183804c29f7bc4c8a/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/d9b3afa45eace67c7e5b5ef746960087/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/b3074ef8962f38892278df44ebb35f46/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/b5929e651ef28359a8f4d1e3ae33f659/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/8cb0bd169adaeb7746c8165ed8814287/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/3ec429d5706ee018a51f5e2c3927d2a5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-common-17.0.0.aar/b23cf2ec4164796183804c29f7bc4c8a/AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/07d0ee5e1ac33e8d73b2b1b15fec3ac5/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/17b5af38bea982e1ed2f3d02c49b6c0c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/8cb0bd169adaeb7746c8165ed8814287/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/22daa4b6c5b23fb12b78f4bb19732b2f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/982a40bbe33f304d2e75ce5749f600c0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/b191d4a608210af3585aebebb767ddb8/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-16.5.0.aar/2cd4cbebd85e9c1fc363a75d752b9277/AndroidManifest.xml:17:1-25:12
@@ -45,11 +54,17 @@ MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/p
 MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/11496c3191656c20e5f39fabf1e8abbb/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/4ccee4400acaa785d1e6c97087efd4f9/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/d2bd1e4af04e17c2d7261b0e8e8238a5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/e9ed0d9fde8e6b72af263b596f1cec60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/browser-1.0.0-rc01.aar/657adbb71832da1710c1053b16d8a32c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/1a025b2c1738f61dde342055d32d5a3b/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/511baf5e959e7f81904fb40f401f32d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/34216c63e6debbad65ad531635fe4cdf/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/260b5c0ed746d67b99d65277603c7988/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/606e990ee704be0388325988673d9e8d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/40bed06d1165f4ac81913bfa984197ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/0783c754b4e1fac55aa869236c42002b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/096c20ba76e61853a334b1fdf4a84169/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a15e2e3796924f4285a889bc64137e94/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/d020fccc9966c08b475495d1acdd2bb6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/ba4b845266c37fc0d383e34c07198e13/AndroidManifest.xml:17:1-22:12
@@ -58,12 +73,16 @@ MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/parkyoungchan/.gr
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/7c9eaf1f1297ace5dd1345a777b35046/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/053e7c2243a10630959abdda205d5369/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/dc2d09997c30f6c36da59a1325bb68d4/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/e18150c841f7a16da90d0745403384ea/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/c503633dd5cbe578f2038274d1c25c37/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/8bdd8fbb77fccc7a0b77e2447bd03473/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/3d88305b739d2770c0b9d9ee3ba1bb5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/8bdd8fbb77fccc7a0b77e2447bd03473/AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:18:1-35:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/f315ad6624b671a76d48e3b851a4442d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/30f38a8a98d1f057c0b4eb4f627e0050/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/7293ecf6da7ab89d62f2860477d109ff/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/5257b805d6b8ef2a1df6cab8d30e3329/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/1c6444937e02eb7f1ca041356cfff302/AndroidManifest.xml:17:1-22:12
@@ -87,26 +106,32 @@ INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-pl
 		ADDED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-18:19
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-18:19
 MERGED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/1669d61217c08629ec124884731e1cde/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/1669d61217c08629ec124884731e1cde/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:16:5-22:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:16:5-22:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-share-4.42.0.aar/399ff9b313c483d084387dda11327d39/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-share-4.42.0.aar/399ff9b313c483d084387dda11327d39/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:28:5-51:19
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/a091bb5dda632f7525aa0a6d3837e887/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/a091bb5dda632f7525aa0a6d3837e887/AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b85dc1cd44b4f741085af7509d41e978/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b85dc1cd44b4f741085af7509d41e978/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/d9b3afa45eace67c7e5b5ef746960087/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/d9b3afa45eace67c7e5b5ef746960087/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/b3074ef8962f38892278df44ebb35f46/AndroidManifest.xml:7:5-20
@@ -117,10 +142,18 @@ MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/parkyo
 MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/07d0ee5e1ac33e8d73b2b1b15fec3ac5/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/22daa4b6c5b23fb12b78f4bb19732b2f/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/22daa4b6c5b23fb12b78f4bb19732b2f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:28:5-57:19
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/982a40bbe33f304d2e75ce5749f600c0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/982a40bbe33f304d2e75ce5749f600c0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/b191d4a608210af3585aebebb767ddb8/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/b191d4a608210af3585aebebb767ddb8/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:28:5-53:19
@@ -145,8 +178,14 @@ MERGED from [androidx.core:core:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/
 MERGED from [androidx.core:core:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:22:5-23:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:27:5-33:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-share:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-share-4.42.0.aar/399ff9b313c483d084387dda11327d39/AndroidManifest.xml:28:18-44
 	android:label
 		ADDED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
@@ -187,64 +226,82 @@ uses-sdk
 INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_auth] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_face_contour] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_face_contour] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [:audioplayers] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/audioplayers/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [:audioplayers] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/audioplayers/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
 MERGED from [:camera] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/camera/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [:camera] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/camera/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [:path_provider] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
-MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_face_contour] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_face_contour] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_face_contour/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/1669d61217c08629ec124884731e1cde/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.9.aar/1669d61217c08629ec124884731e1cde/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/9c74bfab39280e8a579e806596cc8f85/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/9c74bfab39280e8a579e806596cc8f85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-share-4.42.0.aar/399ff9b313c483d084387dda11327d39/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-share-4.42.0.aar/399ff9b313c483d084387dda11327d39/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:24:5-26:41
 MERGED from [com.google.firebase:firebase-ml-vision:19.0.3] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-19.0.3.aar/75eef694a3c75a049e71d24af79ea37d/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-ml-vision:19.0.3] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-19.0.3.aar/75eef694a3c75a049e71d24af79ea37d/AndroidManifest.xml:6:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8e8aef3f196bf85225c65a8adad466a8/AndroidManifest.xml:20:5-44
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8e8aef3f196bf85225c65a8adad466a8/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/a091bb5dda632f7525aa0a6d3837e887/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-3.1.1.aar/a091bb5dda632f7525aa0a6d3837e887/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:23:5-44
 MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-vision-face-model-17.0.2.aar/8c665c98377aa71bd24820ed9baa0147/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/17b5af38bea982e1ed2f3d02c49b6c0c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/17b5af38bea982e1ed2f3d02c49b6c0c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/3ec429d5706ee018a51f5e2c3927d2a5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/3ec429d5706ee018a51f5e2c3927d2a5/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b85dc1cd44b4f741085af7509d41e978/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-interop-17.0.0.aar/b85dc1cd44b4f741085af7509d41e978/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-common-17.0.0.aar/b23cf2ec4164796183804c29f7bc4c8a/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-common-17.0.0.aar/b23cf2ec4164796183804c29f7bc4c8a/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/d9b3afa45eace67c7e5b5ef746960087/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/d9b3afa45eace67c7e5b5ef746960087/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/b3074ef8962f38892278df44ebb35f46/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-17.0.2.aar/b3074ef8962f38892278df44ebb35f46/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/b5929e651ef28359a8f4d1e3ae33f659/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/b5929e651ef28359a8f4d1e3ae33f659/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/8cb0bd169adaeb7746c8165ed8814287/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/8cb0bd169adaeb7746c8165ed8814287/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/3ec429d5706ee018a51f5e2c3927d2a5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/3ec429d5706ee018a51f5e2c3927d2a5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-common-17.0.0.aar/b23cf2ec4164796183804c29f7bc4c8a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-ml-common-17.0.0.aar/b23cf2ec4164796183804c29f7bc4c8a/AndroidManifest.xml:6:5-44
 MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/07d0ee5e1ac33e8d73b2b1b15fec3ac5/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/07d0ee5e1ac33e8d73b2b1b15fec3ac5/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/17b5af38bea982e1ed2f3d02c49b6c0c/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/17b5af38bea982e1ed2f3d02c49b6c0c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/8cb0bd169adaeb7746c8165ed8814287/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/8cb0bd169adaeb7746c8165ed8814287/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/22daa4b6c5b23fb12b78f4bb19732b2f/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/22daa4b6c5b23fb12b78f4bb19732b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.5.0.aar/6049e062f512a77a2a9bd5ef78ea2b22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/982a40bbe33f304d2e75ce5749f600c0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/982a40bbe33f304d2e75ce5749f600c0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/b191d4a608210af3585aebebb767ddb8/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/b191d4a608210af3585aebebb767ddb8/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:20:5-44
@@ -267,16 +324,28 @@ MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/parkyo
 MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/4ccee4400acaa785d1e6c97087efd4f9/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/d2bd1e4af04e17c2d7261b0e8e8238a5/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/d2bd1e4af04e17c2d7261b0e8e8238a5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/e9ed0d9fde8e6b72af263b596f1cec60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-rc01.aar/e9ed0d9fde8e6b72af263b596f1cec60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/browser-1.0.0-rc01.aar/657adbb71832da1710c1053b16d8a32c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/browser-1.0.0-rc01.aar/657adbb71832da1710c1053b16d8a32c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/1a025b2c1738f61dde342055d32d5a3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/1a025b2c1738f61dde342055d32d5a3b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/511baf5e959e7f81904fb40f401f32d8/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/511baf5e959e7f81904fb40f401f32d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/34216c63e6debbad65ad531635fe4cdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0-rc01.aar/34216c63e6debbad65ad531635fe4cdf/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/260b5c0ed746d67b99d65277603c7988/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/260b5c0ed746d67b99d65277603c7988/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/606e990ee704be0388325988673d9e8d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/606e990ee704be0388325988673d9e8d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/40bed06d1165f4ac81913bfa984197ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/40bed06d1165f4ac81913bfa984197ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/4e97c459cfc58c9a820ab3768f54ea71/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/0783c754b4e1fac55aa869236c42002b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/0783c754b4e1fac55aa869236c42002b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/096c20ba76e61853a334b1fdf4a84169/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0-rc01.aar/096c20ba76e61853a334b1fdf4a84169/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a15e2e3796924f4285a889bc64137e94/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/a15e2e3796924f4285a889bc64137e94/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/d020fccc9966c08b475495d1acdd2bb6/AndroidManifest.xml:20:5-44
@@ -293,18 +362,26 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/053e7c2243a10630959abdda205d5369/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0d25b8505b3185f06e9110af985f549e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/dc2d09997c30f6c36da59a1325bb68d4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/dc2d09997c30f6c36da59a1325bb68d4/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/e18150c841f7a16da90d0745403384ea/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/e18150c841f7a16da90d0745403384ea/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/c503633dd5cbe578f2038274d1c25c37/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/c503633dd5cbe578f2038274d1c25c37/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/8bdd8fbb77fccc7a0b77e2447bd03473/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/8bdd8fbb77fccc7a0b77e2447bd03473/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0-rc01.aar/0a0bedfb75b282fbf36a99e79e9c9cff/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/3d88305b739d2770c0b9d9ee3ba1bb5f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/3d88305b739d2770c0b9d9ee3ba1bb5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/8bdd8fbb77fccc7a0b77e2447bd03473/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/8bdd8fbb77fccc7a0b77e2447bd03473/AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:23:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/f315ad6624b671a76d48e3b851a4442d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/f315ad6624b671a76d48e3b851a4442d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/30f38a8a98d1f057c0b4eb4f627e0050/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/30f38a8a98d1f057c0b4eb4f627e0050/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/7293ecf6da7ab89d62f2860477d109ff/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0-rc01.aar/7293ecf6da7ab89d62f2860477d109ff/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/5257b805d6b8ef2a1df6cab8d30e3329/AndroidManifest.xml:20:5-44
@@ -325,6 +402,12 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/debug/AndroidManifest.xml:6:5-66
 MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
 MERGED from [:google_sign_in] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:14:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:23:5-67
@@ -335,6 +418,10 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/6e6d9ff2a02f21b039d6fa3fe9ba8c0d/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/55071708f829a3c547610aa696c349d0/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/55071708f829a3c547610aa696c349d0/AndroidManifest.xml:23:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:25:5-67
 	android:name
 		ADDED from /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.CAMERA
@@ -345,8 +432,24 @@ uses-permission#android.permission.RECORD_AUDIO
 ADDED from [:camera] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/camera/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-71
 	android:name
 		ADDED from [:camera] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/camera/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-68
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:9-12:55
+	android:value
+		ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:13-52
+	android:name
+		ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-58
+provider#com.facebook.FacebookContentProvider
+ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-17:39
+	android:authorities
+		ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-90
+	android:exported
+		ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from [:flutter_share_me] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/flutter_share_me/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-64
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:17:9-21:19
+MERGED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:17:9-21:19
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:27:9-33:19
@@ -363,6 +466,96 @@ ADDED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-f
 		ADDED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_core] /Users/parkyoungchan/AndroidStudioProjects/flutter-face-contour-plugin-master/example/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-123
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/9c74bfab39280e8a579e806596cc8f85/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/9c74bfab39280e8a579e806596cc8f85/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/6e6d9ff2a02f21b039d6fa3fe9ba8c0d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/6e6d9ff2a02f21b039d6fa3fe9ba8c0d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/55071708f829a3c547610aa696c349d0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/55071708f829a3c547610aa696c349d0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:13:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:19.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-firestore-19.0.0.aar/4e3ba3d0b72f0c73580642503c0201c4/AndroidManifest.xml:19:17-111
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-common-4.42.0.aar/5d034f8c687a81125180ecbf1023b025/AndroidManifest.xml:34:19-64
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-facebook-core-4.42.0.aar/622220c83a2ad9264382021f3921d3b4/AndroidManifest.xml:48:25-92
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-tweet-ui-3.1.1.aar/a72e1167a85c7bcc67e015b3b371fe18/AndroidManifest.xml:33:13-75
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -385,36 +578,6 @@ ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.grad
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:38:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-auth-17.0.0.aar/4794ce5c92c52fe1f020840bd9fa62d2/AndroidManifest.xml:37:17-109
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:23:9-27:75
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:25:13-46
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:26:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:27:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:24:13-93
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:33:9-36:110
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:35:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:36:13-107
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/a2ac7a66f62bcaac32616973788642a7/AndroidManifest.xml:34:13-89
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/6e6d9ff2a02f21b039d6fa3fe9ba8c0d/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/6e6d9ff2a02f21b039d6fa3fe9ba8c0d/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/55071708f829a3c547610aa696c349d0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-sdk-api-16.5.0.aar/55071708f829a3c547610aa696c349d0/AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:23:22-76
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.5.0.aar/183a6aa6e7ee0b568cfca7358574dc78/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:24:5-68
@@ -471,6 +634,14 @@ action#com.google.firebase.INSTANCE_ID_EVENT
 ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:54:17-80
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.1.2.aar/6fb4e8d79a8b6cdee810617216b1731a/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:12:9-16:39
 	android:authorities
@@ -481,14 +652,6 @@ ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gr
 		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:16:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-17.0.0.aar/3b5569ffe6fd1b196d6a47fd8ac2b0cd/AndroidManifest.xml:13:13-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/e114e4cc18843856889495bd1b59ee56/AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-16.5.0.aar/fca4075d8a898cdeb581b5c68a2ee373/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-impl-16.5.0.aar/6e6d9ff2a02f21b039d6fa3fe9ba8c0d/AndroidManifest.xml:26:5-110
@@ -549,3 +712,29 @@ ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/parkyou
 		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/4ccee4400acaa785d1e6c97087efd4f9/AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.2.0.aar/4ccee4400acaa785d1e6c97087efd4f9/AndroidManifest.xml:24:13-58
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/tweet-composer-3.1.1.aar/96c93cfc30a4018b14379294b05b4f3b/AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] /Users/parkyoungchan/.gradle/caches/transforms-1/files-1.1/twitter-core-3.1.1.aar/8f090f27634c8d74a45b15a76e0816b8/AndroidManifest.xml:29:13-79

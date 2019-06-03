@@ -10,9 +10,12 @@ import 'package:firebase_face_contour_example/game/t_rex/t_rex.dart';
 
 import 'package:firebase_face_contour_example/gloabals.dart' as gl;
 
+import 'package:cloud_firestore/cloud_firestore.dart';
+
 enum TRexGameStatus { playing, waiting, gameOver }
 
 class TRexGame extends BaseGame {
+
   TRex tRex;
   Horizon horizon;
   GameOverPanel gameOverPanel;
@@ -37,17 +40,56 @@ class TRexGame extends BaseGame {
     tRex.startJump(this.currentSpeed);
   }
 
+  void updateFirestoreHigh(int high) async{
+    DocumentReference ds_ref = gl.ds_ref;
+
+    Firestore.instance.runTransaction((Transaction tx) async {
+
+      DocumentSnapshot scoresnapthot = await tx.get(ds_ref);
+      if (scoresnapthot.exists) {
+        await tx.update(ds_ref, <String, dynamic>{'score': high});
+      }
+    });
+  }
+
+  //To D0: Update -> UI 제작
+  void updateFirestoreLog(int score) async{
+
+    DocumentReference ds_ref = gl.ds_ref;
+
+    gl.Logs.add(score);
+
+    Firestore.instance.runTransaction((Transaction tx) async {
+
+      DocumentSnapshot scoresnapthot = await tx.get(ds_ref);
+      if (scoresnapthot.exists) {
+        await tx.update(ds_ref, <String, dynamic>{'Log': gl.Logs});
+      }
+    });
+  }
+
   @override
   void update(double t) {
-
-//    if(gl.temp<0.5){
-//      onTap();
-//    }
 
     tRex.update(t);
     horizon.updateWithSpeed(0.0, this.currentSpeed);
 
-    if (gameOver) return;
+    if (gameOver){
+
+      if(gl.once){
+
+        if(gl.point.round()>gl.High){
+          gl.High = gl.point.round();
+          updateFirestoreHigh(gl.High);
+        }
+
+        updateFirestoreLog(gl.point.round());
+
+        gl.once = false;
+      }
+
+      return;
+    }
 
     if (tRex.playingIntro && tRex.x >= TRexConfig.startXPos) {
       startGame();
@@ -99,5 +141,6 @@ class TRexGame extends BaseGame {
     currentSpeed = GameConfig.speed;
     gameOverPanel.visible = false;
     timePlaying = 0.0;
+    gl.once = true;
   }
 }
